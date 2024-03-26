@@ -3,3 +3,5 @@ Repositório para demonstrar o funcionamento básico da ferramenta git
 
 # teste de alteração do arquivo readME
 Teste básico
+
+# eaditado no repositório remoto
