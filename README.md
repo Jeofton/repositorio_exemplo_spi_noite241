@@ -5,3 +5,5 @@ Repositório para demonstrar o funcionamento básico da ferramenta git
 Teste básico
 
 # eaditado no repositório remoto
+
+# Compreendendo o comando git diff
